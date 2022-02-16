@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cosmo-way/static/css/main.b58004ba.css",
+    "main.js": "/cosmo-way/static/js/main.2972a434.js",
+    "static/js/787.e1fc1b56.chunk.js": "/cosmo-way/static/js/787.e1fc1b56.chunk.js",
+    "static/media/bg.jpg": "/cosmo-way/static/media/bg.b7d7a0ed7e3708b4843a.jpg",
+    "static/media/CVR.png": "/cosmo-way/static/media/CVR.ca05d71830e08761d9e0.png",
+    "static/media/cw.png": "/cosmo-way/static/media/cw.99a2b70ff66653a5de71.png",
+    "static/media/shapes.png": "/cosmo-way/static/media/shapes.facd1db09a020414c12b.png",
+    "static/media/valuable-products-image.png": "/cosmo-way/static/media/valuable-products-image.3df125649e58bbb2dcb0.png",
+    "static/media/binary-bonus.png": "/cosmo-way/static/media/binary-bonus.4a5301695d1f2155aec1.png",
+    "static/media/fast-start.png": "/cosmo-way/static/media/fast-start.6e699b291df36b62fd88.png",
+    "static/media/direct-bonus.png": "/cosmo-way/static/media/direct-bonus.d5f98de131b59c56a2dc.png",
+    "static/media/rank-bonus.png": "/cosmo-way/static/media/rank-bonus.4479e50a6c1199a94864.png",
+    "static/media/team-bonus.png": "/cosmo-way/static/media/team-bonus.90ea1925d5aa8e740536.png",
+    "static/media/clp-clp.png": "/cosmo-way/static/media/clp-clp.c47559d5c909430e4462.png",
+    "index.html": "/cosmo-way/index.html",
+    "main.b58004ba.css.map": "/cosmo-way/static/css/main.b58004ba.css.map",
+    "main.2972a434.js.map": "/cosmo-way/static/js/main.2972a434.js.map",
+    "787.e1fc1b56.chunk.js.map": "/cosmo-way/static/js/787.e1fc1b56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b58004ba.css",
+    "static/js/main.2972a434.js"
+  ]
+}
